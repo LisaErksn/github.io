@@ -84,6 +84,7 @@ body {
 .banniere-logo {
 	width: 230px;
 	transition: 0.4s;
+	opacity:0.6;
 }
 .banniere-logo-translate {
 	animation-name: translate;
